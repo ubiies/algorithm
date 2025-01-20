@@ -28,15 +28,4 @@ public class Boj1003 {
         }
         System.out.println(sb);
     }
-
-    public static void fibonacci (int n) {
-        if (n == 0) {
-            cnt0++;
-        } else if (n==1) {
-            cnt1++;
-        } else {
-            fibonacci(n-1);
-            fibonacci(n-2);
-        }
-    }
 }
