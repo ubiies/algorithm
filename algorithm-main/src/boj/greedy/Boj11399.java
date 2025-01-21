@@ -1,4 +1,4 @@
-package boj.grid;
+package boj.greedy;
 
 import java.io.*;
 import java.util.*;
